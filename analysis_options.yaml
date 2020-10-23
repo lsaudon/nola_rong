@@ -68,7 +68,6 @@ linter:
     # Disabled for now until we have NNBD as it otherwise conflicts with `missing_return`
     no_default_cases: false
 
-    # Disabled because is a application
     public_member_api_docs: false
-
     diagnostic_describe_all_properties: false
+    one_member_abstracts: false
