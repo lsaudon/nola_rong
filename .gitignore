@@ -1,5 +1,6 @@
 pubspec.lock
 .vscode/
+/coverage/
 
 # Miscellaneous
 *.class
